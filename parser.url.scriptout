@@ -1,0 +1,12 @@
+Script started on Wed 10 Feb 2021 11:41:33 PM CST
+[?1034h{cslinux1:~} ./parser.exe
+Enter the URL: https://cs.utdallas.edu:80/directory/faculty/people.html?name=Robert
+Protocol: https
+Domain: //cs.utdallas.edu
+Port: 80
+File path: directory/faculty/people.html?name=Robert
+{cslinux1:~} exit s[Kparser.url.scriptout
+exit
+bash: exit: parser.url.scriptout: numeric argument required
+
+Script done on Wed 10 Feb 2021 11:42:52 PM CST
